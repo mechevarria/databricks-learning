@@ -1,2 +1,2 @@
 # Databricks Learning Sandbox
-Repository for learning the Databricks platform
+Demo project that uses the databricks cli
